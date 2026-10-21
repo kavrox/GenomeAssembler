@@ -1,0 +1,16 @@
+@good1
+ATGCGATAC
++
+IIIIIIIII
+@good2
+ATGCGATAC
++
+IIIIIIIII
+@good3
+ATGCGATAC
++
+IIIIIIIII
+@low_quality_error_read
+ATGCGTTAC
++
+#####!###

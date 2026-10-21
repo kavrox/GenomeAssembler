@@ -1,0 +1,4 @@
+# three overlapping reads of ATGCGATAC (guide Part 18)
+ATGC
+GCGAT
+GATAC
