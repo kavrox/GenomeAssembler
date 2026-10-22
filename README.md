@@ -86,7 +86,7 @@ Everyone commits from **their own GitHub account**.
 |---|---|---|---|---|
 | **1. String ADT, input, k-mers, reporting** | _(fill in)_ | `genome/sequence.py`, `genome/io.py`, `genome/kmers.py`, `genome/report.py`, `main.py`, `data/` | String ADT, hash map (Counter) | [docs/PART1_strings_kmers.md](docs/PART1_strings_kmers.md) |
 | **2. De Bruijn graph** | _(fill in)_ | `genome/graph.py`, `gui.py` | Graph ADT, adjacency list (hash map of dynamic arrays) | [docs/PART2_debruijn_graph.md](docs/PART2_debruijn_graph.md) |
-| **3. Eulerian assembly** | _(fill in)_ | `genome/euler.py`, `genome/assembler.py`, `genome/simulate.py`, `genome/benchmark.py`, `demo.py` | stack, edge-pointer array | [docs/PART3_euler_assembly.md](docs/PART3_euler_assembly.md) |
+| **3. Eulerian assembly** | Shris | `genome/euler.py`, `genome/assembler.py`, `genome/simulate.py`, `genome/benchmark.py`, `demo.py` | stack, edge-pointer array | [docs/PART3_euler_assembly.md](docs/PART3_euler_assembly.md) |
 | **4. GST + mutation analysis** | _(fill in)_ | `genome/suffix_tree.py`, `genome/mutations.py` | generalized suffix tree | [docs/PART4_gst_mutations.md](docs/PART4_gst_mutations.md) |
 
 Tests: `tests/test_part1_strings_kmers.py`, `tests/test_part2_graph.py`,
